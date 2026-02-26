@@ -1,4 +1,4 @@
-# ✌🏽 Ola! Me chamo Eduardo Silva
+# Ola! Me chamo Eduardo Silva
 
 Estudo engenharia de software
 Estou no primeiro semestre
