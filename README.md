@@ -1,6 +1,6 @@
 # Ola! Me chamo Eduardo Silva
 
-Estudo engenharia de software
+Estudo engenharia de software.
 Tenho basico de Python e C.
 Atualmente trabalho com promotoria de vendas.
 
