@@ -1,12 +1,11 @@
 # Ola! Me chamo Eduardo Silva
 
 Estudo engenharia de software.
-Tenho basico de Python e C.
-Atualmente trabalho com promotoria de vendas.
+Realizo desenvolvimentos em Python e C.
 
 ---
 
-## 🚀 Tecnologias que estou estudando:
+## 🚀 Tecnologias:
 
 - C
 - Python
@@ -23,9 +22,14 @@ Atualmente trabalho com promotoria de vendas.
 🔹 Sistema de beneficio social
 🔹 Sistema de controle de temperatura e umidade
 
+## 💻 Produtos desenvolvidos
+
+🔹 Sistema de Cotação;
+🔹 Gerenciador de estoque
+
 ---
 
 ## 📈 Objetivo
 
-Me especializar nas linguagens que estou aprendendo, incluindo html e js.
+Me especializar nas linguagens que estou aplicando, incluindo html e js.
 Quero desenvolver sistemas reais que resolvam problemas.
