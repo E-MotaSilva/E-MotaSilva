@@ -1,37 +1,13 @@
-# Ola! Me chamo Eduardo Silva
+<div align="center">
 
-Estudo engenharia de software.
-Realizo desenvolvimentos em Python e C.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Eduardo%20Silva&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
----
+# 👋 Olá, eu sou Eduardo Silva
 
-## 🚀 Tecnologias:
+### 🎓 Estudante de Engenharia de Software
 
-- C
-- Python
-- Logica de programacao
-- Git
-- Segurança da informação
+💻 Desenvolvedor Python • PHP • JavaScript • PostgreSQL
 
----
+🚀 Apaixonado por automação, desenvolvimento desktop e desenvolvimento web.
 
-## 📚 Projetos pessoais
-
-🔹 Sistema de caixa eletronico
-🔹 Jogo Jokenpo em C
-🔹 Sistema de caixa eletronico
-🔹 Sistema de cadastro de alunos
-🔹 Sistema de ocntrole de validade
-🔹 Sistema de estoque
-
-## 💻 Produtos desenvolvidos
-
-🔹 Sistema de Cotação - Orçamentos
-🔹 Gerenciador de estoque
-
----
-
-## 📈 Objetivo
-
-Me especializar nas linguagens que estou aplicando, incluindo html e js.
-Quero desenvolver sistemas reais que resolvam problemas.
+</div>
