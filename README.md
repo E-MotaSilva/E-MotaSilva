@@ -20,4 +20,19 @@ Desenvolvendo automação, sistemas desktop e em breve desenvolvimento web.
 <img src="https://skillicons.dev/icons?i=python,c,github,vscode,pycharm,claudecode,powershell&perline=5" />
 </p>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=E-MotaSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-MotaSilva&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=E-MotaSilva&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
 </div>
