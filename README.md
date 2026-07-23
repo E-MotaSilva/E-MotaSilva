@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Eduardo Mota Silva
 
-### 🎓 Estudante de Engenharia de Software
+### 🎓 Graduando em Engenharia de Software (segundo semestre)
 
 💻 Desenvolvedor Python • C
 
