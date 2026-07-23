@@ -118,7 +118,7 @@ Um sistema completo que evoluiu de um controle baseado em Excel para uma aplica√
 <a href="https://www.linkedin.com/in/E-MotaSilva" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:edusilva2395@outlook.com">
+<a href="mailto:dubreezy41@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/E-MotaSilva" target="_blank">
