@@ -1,0 +1,24 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    # Atualiza a cada hora — ajuste a frequência se quiser
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Ashutosh00710/github-readme-activity-graph@v2.0.4
+        with:
+          github_username: E-MotaSilva
+          theme: tokyo-night
+          committer_name: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          data_file: activity_data.json
