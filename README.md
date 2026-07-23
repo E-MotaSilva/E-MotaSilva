@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Eduardo%20Mota%20Silva&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Python%20%26%20C%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+desktop+apps+with+Python;%F0%9F%A7%A0+2nd+semester+%E2%80%94+Software+Engineering;%F0%9F%94%A7+Automation+%2B+Next+stop%3A+Web+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+desktop+apps+with+Python;%F0%9F%A7%A0+2nd+semester+%E2%80%94+Software+Engineering;%F0%9F%94%A7+Automation+%2B+Tkinter+%2B+PDF+generation;%F0%9F%8C%90+Next+stop%3A+Web+Development" />
 
 </div>
 
@@ -14,18 +14,18 @@
 class EduardoSilva:
     def __init__(self):
         self.formacao = "Engenharia de Software — 2º semestre"
-        self.stack_atual = ["Python", "C", "Desenvolvimento web"]
+        self.stack_atual = ["Python", "C", "Tkinter", "PostgreSQL"]
         self.interesses = ["Automação", "Apps Desktop", "Web Dev (em breve)"]
-        self.projeto_atual = "EMs Cotações — sistema gerador de orçamentos"
-        self.mentalidade = "Aprender construindo, errar pouco, refatorar sempre"
+        self.projeto_atual = "EMs Cotações — gerador de orçamentos em pdf"
+        self.mentalidade = "Aprender construindo, errar rápido, refatorar sempre"
 
     def objetivo(self):
         return "Evoluir de scripts de automação para soluções completas e escaláveis"
 ```
 
-- 🎓 Graduando em **Engenharia de Software**, focado em fundamentos sólidos de lógica e arquitetura de software
-- 💻 Desenvolvedor **Python** e **C**, com foco em automação e aplicações desktop
-- 🛠️ Atualmente construindo o **EMs Cotações**, um sistema desktop que gera orçamentos em pdf para clientes (Tkinter + CTkinter)
+- 🎓 Graduando em **Engenharia de Software**, focado nos fundamentos sólidos de lógica e arquitetura de software
+- 💻 Desenvolvedor **Python e C**, com foco em automação e aplicações desktop
+- 🖥️ Atualmente construindo o **EMs Cotações**, um sistema desktop que gera orçamentos em pdf para clientes (Tkinter + CTkinter)
 - 🌱 Expandindo para **desenvolvimento web** como próximo passo da jornada
 - ⚡ Interesse crescente em **IA aplicada ao desenvolvimento** (Claude Code no dia a dia)
 
@@ -35,7 +35,7 @@ class EduardoSilva:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,github,git,vscode,pycharm,powershell,windows&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,c,postgres,github,git,vscode,pycharm,powershell,windows&perline=9"/>
 
 </div>
 
@@ -46,11 +46,11 @@ class EduardoSilva:
 | Categoria | Tecnologias |
 |---|---|
 | 🐍 Linguagens | Python, C |
-| 🖥️ Desktop/UI | PySide6 (Qt) |
+| 🖥️ Desktop/UI | Tkinter, CTkinter |
 | 🗄️ Banco de Dados | PostgreSQL |
-| 🔧 Automação | Scripts Python, integração de APIs |
+| ✂️ Automação | Scripts Python, integração de APIs |
 | 🌐 APIs | OSRM (roteamento), WhatsApp Cloud API |
-| ⚙️ Dev Tools | Git, GitHub, VS Code, PyCharm, Claude Code |
+| 🔧 Dev Tools | Git, GitHub, VS Code, PyCharm, Claude Code |
 | 🖱️ SO | Windows |
 
 <br>
@@ -59,7 +59,7 @@ class EduardoSilva:
 
 <div align="center">
 
-### 📦 EMs Cotações
+### 💼 EMs Cotações
 **Sistema desktop gerador de orçamentos em pdf**
 
 `Tkinter` · `CTkinter`
@@ -67,12 +67,12 @@ class EduardoSilva:
 </div>
 
 Um sistema completo que evoluiu de um controle baseado em Excel para uma aplicação desktop robusta, com:
-- Cadastro de produtos diretamente no sistema ou por importação em excel
-- Exportação dos itens dacastrados para excel
-- Backup local
-- Chave de ativação
-- Historia de cotações realizadas
-- Pdf estruturado com logo da empresa
+- 📋 Cadastro de produtos diretamente na interface ou por importação em Excel
+- 📤 Exportação dos itens cadastrados para Excel
+- 💾 Backup local
+- 🔑 Chave de ativação
+- 🕓 Histórico de cotações realizadas
+- 🧾 PDF estruturado com logo da empresa
 
 <br>
 
@@ -102,8 +102,11 @@ Um sistema completo que evoluiu de um controle baseado em Excel para uma aplica�
 ## 📈 Atividade recente
 
 <!--START_SECTION:activity-->
-<img src="https://raw.githubusercontent.com/E-MotaSilva/E-MotaSilva/master/activity_data.json.svg" />
 <!--END_SECTION:activity-->
+
+<br>
+
+## 🐍 Contribuições
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/E-MotaSilva/E-MotaSilva/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -115,10 +118,10 @@ Um sistema completo que evoluiu de um controle baseado em Excel para uma aplica�
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/E-MotaSilva" target="_blank">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:dubreezy41@gmail.com">
+<a href="mailto:SEU_EMAIL@exemplo.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/E-MotaSilva" target="_blank">
@@ -129,7 +132,7 @@ Um sistema completo que evoluiu de um controle baseado em Excel para uma aplica�
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=E-MotaSilva&color=00D9FF&style=for-the-badge&label=Visualizações+do+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=E-MotaSilva&color=00D9FF&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+perfil)
 
 </div>
 
