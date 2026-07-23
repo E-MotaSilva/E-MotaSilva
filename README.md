@@ -102,7 +102,7 @@ Um sistema completo que evoluiu de um controle baseado em Excel para uma aplicaÃ
 ## ğŸ“ˆ Atividade recente
 
 <!--START_SECTION:activity-->
-<!-- Este bloco pode ser preenchido automaticamente com a GitHub Action "github-readme-activity-graph" -->
+<img src="https://raw.githubusercontent.com/E-MotaSilva/E-MotaSilva/master/activity_data.json.svg" />
 <!--END_SECTION:activity-->
 
 <div align="center">
