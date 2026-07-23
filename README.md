@@ -18,13 +18,15 @@ Realizo desenvolvimentos em Python e C.
 ## 📚 Projetos pessoais
 
 🔹 Sistema de caixa eletronico
-🔹 Comparacao de cartas (game)
-🔹 Sistema de beneficio social
-🔹 Sistema de controle de temperatura e umidade
+🔹 Jogo Jokenpo em C
+🔹 Sistema de caixa eletronico
+🔹 Sistema de cadastro de alunos
+🔹 Sistema de ocntrole de validade
+🔹 Sistema de estoque
 
 ## 💻 Produtos desenvolvidos
 
-🔹 Sistema de Cotação;
+🔹 Sistema de Cotação - Orçamentos
 🔹 Gerenciador de estoque
 
 ---
