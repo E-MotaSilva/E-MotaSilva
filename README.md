@@ -14,7 +14,7 @@
 class EduardoSilva:
     def __init__(self):
         self.formacao = "Engenharia de Software — 2º semestre"
-        self.stack_atual = ["Python", "C", "Tkinter", "PostgreSQL"]
+        self.stack_atual = ["Python", "C", "Segurança da informação"]
         self.interesses = ["Automação", "Apps Desktop", "Web Dev (em breve)"]
         self.projeto_atual = "EMs Cotações — gerador de orçamentos em pdf"
         self.mentalidade = "Aprender construindo, errar rápido, refatorar sempre"
