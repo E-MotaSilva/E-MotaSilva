@@ -45,7 +45,7 @@ class EduardoSilva:
 
 | Categoria | Tecnologias |
 |---|---|
-| 🐍 Linguagens | Python, C |
+| 🐍 Linguagens | Python, C, Lógica de programação |
 | 🖥️ Desktop/UI | Tkinter, CTkinter |
 | 🗄️ Banco de Dados | PostgreSQL |
 | ✂️ Automação | Scripts Python, integração de APIs |
